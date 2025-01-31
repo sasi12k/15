@@ -34,4 +34,5 @@ void shuffle(int *a,int *b,int *c,int *d){
     *b = e[1];
     *c = e[2];
     *d = e[3];
+	
 }

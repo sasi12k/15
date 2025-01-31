@@ -15,5 +15,6 @@ int main(){
  cout << "The highest value in array B is "<< *pb << "\n";
 
  return 0;
+ 
 }
 

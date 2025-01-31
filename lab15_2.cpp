@@ -11,4 +11,5 @@ int main(){
  cout << "\nAfter: ";
  for(int i = 0; i<10; i++) cout << data[i] << " ";
  return 0;
+ 
 }
